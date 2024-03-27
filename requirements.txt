@@ -1,0 +1,11 @@
+ultralytics
+matplotlib
+ipykernel
+numpy
+pandas
+matplotlib
+streamlit
+streamlit-option-menu
+streamlit-tags
+streamlit-drawable-canvas
+ipykernel
